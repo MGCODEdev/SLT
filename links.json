@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "title": "UniFi - WLAN Controller",
+        "url": "https:\/\/10.0.0.1\/network\/site\/default\/dashboard",
+        "icon": ""
+    },
+    {
+        "id": 2,
+        "title": "ioBroker - ConfigPage",
+        "url": "http:\/\/10.0.0.99:8081\/#instances"
+    },
+    {
+        "id": 3,
+        "title": "ioBroker - VIS",
+        "url": "http:\/\/10.0.0.99:8082\/"
+    },
+    {
+        "id": 4,
+        "title": "Synology WEB Manager",
+        "url": "http:\/\/10.0.0.99:5000"
+    },
+    {
+        "id": 5,
+        "title": "Home Wiki",
+        "url": "http:\/\/10.0.0.99\/dokuwiki\/doku.php"
+    },
+    {
+        "id": 6,
+        "title": "phpMyAdmin",
+        "url": "http:\/\/10.0.0.99\/phpMyAdmin\/"
+    },
+    {
+        "id": 7,
+        "title": "Home Assistant",
+        "url": "http:\/\/10.0.0.104:8123\/"
+    },
+    {
+        "id": 8,
+        "title": "Paperless-ngx",
+        "url": "http:\/\/10.0.0.99:8000\/"
+    },
+    {
+        "id": 9,
+        "title": "Fendt Wohnwagen Info",
+        "url": "http:\/\/10.0.10.122\/willhaben\/py\/info3.php"
+    },
+    {
+        "id": 10,
+        "title": "OctoPrint",
+        "url": "http:\/\/10.0.0.157\/"
+    },
+    {
+        "id": 11,
+        "title": "FlowiseAI",
+        "url": "http:\/\/10.0.10.120:3000\/"
+    },
+    {
+        "id": 12,
+        "title": "n8n",
+        "url": "http:\/\/10.0.10.120:5678\/"
+    }
+]
