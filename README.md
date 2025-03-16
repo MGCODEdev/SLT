@@ -29,6 +29,6 @@
 1. **Repository klonen:**
 
    ```bash
-   git clone https://github.com/MGCODEdev/slt.git
+   git clone https://github.com/MGCODEdev/SLT.git
    cd source-link-tool
 
