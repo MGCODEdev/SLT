@@ -3,7 +3,11 @@
         "id": 1,
         "title": "UniFi - WLAN Controller",
         "url": "https:\/\/10.0.0.1\/network\/site\/default\/dashboard",
+<<<<<<< HEAD
         "icon": ""
+=======
+        "icon": "icon_67d6c4da38fe39.52001939.png"
+>>>>>>> 514f119 (Initial commit)
     },
     {
         "id": 2,
